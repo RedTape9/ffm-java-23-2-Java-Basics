@@ -12,7 +12,7 @@ public class BonusExercises {
      * ob sie ein Palindrom ist (also von vorne und hinten gelesen gleich ist).
      * Gib true zurück, wenn es ein Palindrom ist, sonst gib false zurück.
 
-     *Hallo Sergej
+     *Hallo Sergej :)
      */
 
     public static void main(String[] args) {
