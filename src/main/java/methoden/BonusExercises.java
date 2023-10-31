@@ -4,10 +4,10 @@ public class BonusExercises {
     /**
      * Erstelle eine bedingte Anweisung, um die Methode 'subtract' aufzurufen,
      * wenn die erste Zahl größer ist als die zweite, andernfalls rufe die Methode 'add' auf.
-     * <p>
+     *
      * Schreibe eine Methode, die prüft, ob eine Zahl gerade ist.
      * Gerade Zahlen sollen einfach zurückgegeben werden, ungerade Zahlen sollen verdoppelt werden.
-     * <p>
+     *
      * Schreibe eine Methode, die eine Zeichenkette als Parameter entgegennimmt und prüft,
      * ob sie ein Palindrom ist (also von vorne und hinten gelesen gleich ist).
      * Gib true zurück, wenn es ein Palindrom ist, sonst gib false zurück.
